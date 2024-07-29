@@ -1,3 +1,4 @@
+                elif rt_count >= demo_frames_limit[0] and rt_count < demo_frames_limit[1]:
 from mast3r.model import AsymmetricMASt3R
 from mast3r.fast_nn import fast_reciprocal_NNs
 
